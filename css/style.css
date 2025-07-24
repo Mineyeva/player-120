@@ -17,3 +17,7 @@ header h1 {
     "MORF" 15,
     "SHLN" 50;
 }
+main{text-align: center;
+background-color: darkgrey;}
+main img{height: 400px;
+width: 400px;}
